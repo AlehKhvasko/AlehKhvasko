@@ -1,6 +1,6 @@
 
 
-### 🎆🎆🎆 Welcome to my Github page 🎆🎆🎆
+Welcome
 
 
 ![Snake animation](https://github.com/AlehKhvasko/AlehKhvasko/blob/output/github-contribution-grid-snake.svg)
