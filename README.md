@@ -3,9 +3,8 @@
  <div>
   <a href="https://github.com/AlehKhvasko">
    <img  height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlehKhvasko&layout=compact&langs_count=16&theme=dark"/>
-  <img  src="https://github-readme-stats.vercel.app/api?username=AlehKhvasko&show_icons=false&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=AlehKhvasko&show_icons=true&theme=dark"/>
 </div>
-
 
  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 ## Contact 
