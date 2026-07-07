@@ -9,5 +9,5 @@ Tech stack
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlehKhvasko&show_icons=true&theme=github_dark&hide=issues" />
+  <img src="./profile/stats.svg" alt="Aleh Khvasko GitHub stats" />
 </p>
