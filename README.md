@@ -11,7 +11,7 @@ Tech stack
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AlehKhvasko&amp;show_icons=true&amp;theme=github_dark&amp;hide=issues&amp;cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=AlehKhvasko&amp;show_icons=true&amp;theme=github_dark&amp;hide=issues"
     alt="Aleh Khvasko GitHub stats"
   />
 </p>
